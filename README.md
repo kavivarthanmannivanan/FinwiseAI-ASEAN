@@ -211,6 +211,57 @@ The prototype demonstrates the **complete user interaction flow of the system.**
 
 ---
 
+# 🎥 Demo & Prototype
+
+## 📱 Interactive Prototype
+
+Experience the full **FinWise AI mobile app prototype** designed in Figma.
+
+<p align="center">
+
+<a href="https://www.figma.com/proto/rWGE4xlLeexYkWBZolrFom/FinWise-AI-%E2%80%93-ASEAN-Smart-Finance?node-id=3-17764&p=f&t=NHZAlM1O6xV7wVfA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A17764&show-proto-sidebar=1" target="_blank">
+
+<img src="https://img.shields.io/badge/View%20Figma%20Prototype-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+## 🎬 Video Demonstration
+
+Watch a quick walkthrough explaining the **features, workflow, and functionality of FinWise AI.**
+
+<p align="center">
+
+<a href="https://www.figma.com/proto/rWGE4xlLeexYkWBZolrFom/FinWise-AI-%E2%80%93-ASEAN-Smart-Finance?node-id=3-17764&p=f&t=NHZAlM1O6xV7wVfA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A17764&show-proto-sidebar=1" target="_blank">
+
+<img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+## 📌 What the Demo Shows
+
+The demo highlights:
+
+• AI Financial Assistant interaction  
+• Expense tracking system  
+• Financial insights dashboard  
+• Savings goal tracking  
+• ASEAN multilingual support  
+• Light & dark mode interface  
+
+The walkthrough demonstrates how **FinWise AI helps users understand spending habits and make smarter financial decisions.**
+
+---
+
+---
+
 # 🛠 Technology Stack
 
 ### Frontend
