@@ -235,7 +235,7 @@ Watch a quick walkthrough explaining the **features, workflow, and functionality
 
 <p align="center">
 
-<a href="https://www.figma.com/proto/rWGE4xlLeexYkWBZolrFom/FinWise-AI-%E2%80%93-ASEAN-Smart-Finance?node-id=3-17764&p=f&t=NHZAlM1O6xV7wVfA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A17764&show-proto-sidebar=1" target="_blank">
+<a href="https://youtu.be/hCxJk3Inx84" target="_blank">
 
 <img src="https://img.shields.io/badge/Watch%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
